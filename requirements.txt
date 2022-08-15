@@ -1,0 +1,4 @@
+pip~=22.2.2
+cryptography~=37.0.4
+setuptools~=63.4.1
+nltk~=3.7
